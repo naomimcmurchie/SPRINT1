@@ -8,7 +8,7 @@
 
 `pwd` where am i (present working directory)
 
-`cd targetFolder` changes to targetFolder
+`cd` targetFolder changes to targetFolder
 
 `cd ..` go back/up a directory
 
@@ -18,9 +18,11 @@
 
 `sublime .` Open everything in this folder 
 
-`rm fileName`
+`touch` NAME'txt to open a file
 
-`rm -r folderName` DANGEROUS
+`rm`  to delete a fileName
+
+`rm -r` to delete a folderName DANGEROUS
 
 
 
@@ -42,4 +44,7 @@ When you make a new project in github, you need to connect your LOCAL project to
 
 ### All other commits after
 
-`git add .`
+1. git add .
+2. git commit -m 'any message'
+3. git push
+

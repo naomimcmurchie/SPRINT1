@@ -18,7 +18,9 @@
 
 `sublime .` Open everything in this folder 
 
-`touch` NAME'txt to open a file
+`touch` NAME'txt to create a file
+
+`mkdir` to create a folder
 
 `rm`  to delete a fileName
 
